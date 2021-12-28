@@ -26,7 +26,7 @@
 ### Languages:
 English - between C1 Advanced and C2 Proficient(according to the online test https://www.efset.org/quick-check/)
 
-![english_test_result](./img/eng_test.png "Result of EFSET english test")
+![english_test_result](./eng_test.png "Result of EFSET english test")
 
 
 Ukrainian - native
