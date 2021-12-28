@@ -37,8 +37,8 @@ const maxOfArray = (arr) =>{
 maxOfArray(array);
 ```
 ### Courses:
-**OKTEN Web UniversITy**, course «JavaScript Complex» (in progress)   
-**RS Schools**, course «JavaScript/Front-end. Stage 0» (in progress)
+**OKTEN Web UniversITy**, course «JavaScript Complex» (in process)   
+**RS Schools**, course «JavaScript/Front-end. Stage 0» (in process)
 
 ### Languages:
 English - Pre Intermediate (A2)
