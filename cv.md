@@ -4,7 +4,9 @@
 
 ### Contact information:
 **Phone:** +38 050 819 69 04
+
 **E-mail:** evseinka@gmal.com
+
 **Telegram:** YevsInna
 
 ### My skills:
@@ -23,7 +25,8 @@
 
 ### Languages:
 English - between C1 Advanced and C2 Proficient(according to the online test https://www.efset.org/quick-check/)
-![english_test_result](RS_SCHOOL/rsschool-cv/img/eng_test.png "Result of EFSET english test")
+
+![english_test_result](./img/eng_test.png "Result of EFSET english test")
 
 
 Ukrainian - native
