@@ -34,8 +34,8 @@ const maxOfArray = (arr) =>{
     };
     return maxNumber;
 }
-maxOfArray(array);```
-
+maxOfArray(array);
+```
 ### Courses:
 **OKTEN Web UniversITy**, course «JavaScript Complex» (in progress)   
 **RS Schools**, course «JavaScript/Front-end. Stage 0» (in progress)
